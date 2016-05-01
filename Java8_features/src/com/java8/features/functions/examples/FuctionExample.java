@@ -1,4 +1,4 @@
-package com.java8.features.examples;
+package com.java8.features.functions.examples;
 
 import java.util.function.Function;
 
